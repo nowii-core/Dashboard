@@ -6,7 +6,7 @@ Una piattaforma analitica web per la visualizzazione di KPI finanziari e metrich
 
 ## Preview
 
-![Analytics Dashboard Screenshot](assets/screenshot.png)
+![Analytics Dashboard Screenshot](Screenshot-1.png)
 
 > **Live Demo:** [nowii-core.github.io/Dashboard/dashboard/](https://nowii-core.github.io/Dashboard/dashboard/)
 
